@@ -28,5 +28,3 @@ The theoretical framework was developed by Prof. Ashutosh Tiwari. **My role was 
 
 ## Results
 The simulations demonstrated that an ensemble of quantum interference trajectories can successfully perform temporal computing tasks, achieving a normalized mean squared error (NMSE) of ~0.15 on the NARMA-10 benchmark — validating the core theoretical claims of the paper.
-
-## Dependencies
